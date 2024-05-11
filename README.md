@@ -18,7 +18,7 @@ MASS, pscl, glmmTMB
 
 LICENCE
 
-This project is licensed under the MIT License - see the  file for details.
+This project is licensed under the MIT License - see the LICENCE file for details.
 
 AUTHORS
 
