@@ -8,8 +8,6 @@ INSTRUCTIONS
 
 Download the Irish_UsedCars dataset from Kaggle (https://www.kaggle.com/datasets/ravi23231/irish-usedcars) or any other count dataset, download the required packages, and run the functions
 
-PACKAGES USED
+REQUIRED PACKAGES
 
-MASS
-pscl
-glmmTMB
+MASS, pscl, glmmTMB
